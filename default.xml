@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	
+	<remote fetch="https://github.com/uday592" name="origin"/>
+	<!-- <remote fetch="https://github.com" name="github"/> -->
+		
+	<default remote="origin" sync-j="2" revision="master"/>
+	
+	<project  name="first" path="code1"/>
+	<project  name="second" path="code2"/>
+	<project  name="second" path="code3"/>
+
+</manifest>
